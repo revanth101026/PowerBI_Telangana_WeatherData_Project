@@ -127,50 +127,8 @@ Through this project, I learned:
 
 ---
 
-# 📷 Dashboard Preview
-
-*Add screenshots of your dashboard here.*
-
-Example:
-
-* Dashboard Overview
-* Rainfall Analysis Page
-* Temperature Analysis Page
-* KPI Section
-
----
-
-# Future Enhancements
-
-* Add forecasting analysis
-* Implement anomaly detection
-* Include real-time weather API integration
-* Add advanced DAX calculations
-* Create mobile-optimized dashboard view
-
----
-
-# Project Structure
-
-Telangana-Weather-Analysis/
-│
-├── Dataset/
-├── PowerBI_File/
-├── Dashboard_Screenshots/
-├── README.md
-└── Telangana_Weather_Analysis.pbix
-```
-
----
-
 # Conclusion
 
 This project demonstrates how Power BI can be used to convert raw weather data into meaningful business intelligence dashboards. It highlights skills in data cleaning, visualization, dashboard design, and analytical thinking.
 
 ---
-
-# Author
-
-**Harish**
-
-Aspiring Data Science
